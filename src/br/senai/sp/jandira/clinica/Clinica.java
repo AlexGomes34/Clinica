@@ -17,7 +17,7 @@ public class Clinica {
 		Paciente p1 = new Paciente();
 		p1.nome = "Jaime";
 		p1.setAltura(1.65);
-		p1.setPeso(8.2);
+		p1.setPeso(60.2);
 		p1.telefone = "(11)8002-8922";
 		p1.dataNascimento = LocalDate.of(2003, 07, 15);
 		p1.estaInternado = true;
